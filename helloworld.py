@@ -1,4 +1,5 @@
 # Python
+import numpy as np
 import tensorflow as tf
 
 hello = tf.constant('Hello, TensorFlow!')
